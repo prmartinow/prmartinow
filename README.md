@@ -31,8 +31,9 @@ Over the last couple of months developing agent tooling, I've spent my time on:
 ### Tech Stack & Tools
 *   **Agent Tooling:** Tantivy, Rebrowser, MemPalace, CASS
 *   **Agent Harnesses:** Claude Code, Codex, OpenCode, Hermes, OpenClaw, ZCode
+*   **Local Inference:** PyTorch, HuggingFace Transformers, SentenceTransformer, CrossEncoder, FastAPI
 *   **Languages:** Rust, TypeScript, Python, Bash, Go
-*   **Databases & Ingestion:** SQLite, ClickHouse, Qdrant, Redpanda/Kafka
+*   **Databases & Ingestion:** ClickHouse, Qdrant, Redpanda/Kafka, SQLite
 *   **DevOps:** Docker, systemd, WireGuard, Prometheus/Grafana
 
 ---
