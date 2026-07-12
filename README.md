@@ -5,7 +5,7 @@
 ### What I'm Building
 
 *   **[repo-analysis-workbench](https://github.com/prmartinow/repo-analysis-workbench)**: Helping your agent understand code repos faster.
-*   **[web-osint-platform](https://github.com/prmartinow/web-osint-platform)**: A platform to collect, index, label and analyze data captured around the internet. Precursor to a WIKI or Deep Research platform.
+*   **[web-osint-platform](https://github.com/prmartinow/web-osint-platform)**: A platform to collect, index, label and analyze data captured around the internet.
 *   **[wispr](https://github.com/prmartinow/wispr)**: OS replacement for super whisper or wispr flow.
 
 ---
