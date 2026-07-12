@@ -12,7 +12,7 @@ I focus on context engineering, agent memory, repository intelligence, and brows
 ---
 
 ### Contributions
-I contribute to open-source AI tooling and agent harnesses:
+I contribute to open-source agent harnesses and tooling:
 
 *   **[anomalyco/opencode](https://github.com/anomalyco/opencode)**: Resolved LAN CORS restrictions, fixed frontend session route hydration crashes, corrected TUI event listener leaks, and stabilized test suite execution.
 *   **[coder/agent-tty](https://github.com/coder/agent-tty)**: Propagated active session state and environment flags (`sessionId` and `AGENT_TTY_ACTIVE`) to spawned processes.
@@ -21,6 +21,7 @@ I contribute to open-source AI tooling and agent harnesses:
 
 ### Focus Areas
 Over the last couple of months developing agent tooling, I've spent my time on:
+
 *   **Context Engineering:** Pruning code trees, mapping repository structures, and optimizing input tokens for local models.
 *   **Local Inference Pipelines:** Deploying and benchmarking embedding/reranking APIs (like Qwen) and local OCR systems (PaddleOCR) on local setups.
 *   **Agent Harness & Tooling Evaluation:** Unifying local execution environments for diverse agent runtimes and evaluating agent tooling through automated codebase-analysis pipelines & testing.
