@@ -3,16 +3,16 @@
 ---
 
 ### What I'm Building
-I focus on context engineering, agent memory, repository intelligence, and browser automation to make coding agents faster, smarter, and fully local.
+I focus on context engineering, agent memory, repository intelligence, and browser automation to make coding agents cheaper and more efficient.
 
-*   **[repo-analysis-workbench](https://github.com/prmartinow/repo-analysis-workbench)**: A standalone workbench for evaluating and indexing codebases using local semantic embeddings and reranking.
-*   **[web-osint-platform](https://github.com/prmartinow/web-osint-platform)**: Visible Chromium/Rebrowser automation architecture backed by VNC/noVNC display observability.
-*   **[wispr](https://github.com/prmartinow/wispr)**: Local voice-to-text pipeline and paste gateway designed for hands-free coding agent dictation.
+*   **[repo-analysis-workbench](https://github.com/prmartinow/repo-analysis-workbench)**: helping your agent to understand code repos faster.
+*   **[web-osint-platform](https://github.com/prmartinow/web-osint-platform)**: A platform to collect, index, label and analyze data captured around the internet. Precursour to a WIKI or Deep Research platform.
+*   **[wispr](https://github.com/prmartinow/wispr)**: OS replacement for super whisper or wispr flow.
 
 ---
 
 ### Contributions
-I contribute to open-source developer tools and agent runtimes:
+I contribute to open-source AI tooling and agent harnesses:
 
 *   **[anomalyco/opencode](https://github.com/anomalyco/opencode)**: Resolved LAN CORS restrictions, fixed frontend session route hydration crashes, corrected TUI event listener leaks, and stabilized test suite execution.
 *   **[coder/agent-tty](https://github.com/coder/agent-tty)**: Propagated active session state and environment flags (`sessionId` and `AGENT_TTY_ACTIVE`) to spawned processes.
@@ -20,20 +20,21 @@ I contribute to open-source developer tools and agent runtimes:
 ---
 
 ### Focus Areas
-Over the last couple of months developing AI agent systems, I've spent my time on:
+Over the last couple of months developing agent tooling, I've spent my time on:
 *   **Context Engineering:** Pruning code trees, mapping repository structures, and optimizing input tokens for local models.
-*   **Local Inference Pipelines:** Deploying and benchmarking embedding/reranking APIs (like Qwen) and local OCR systems (PaddleOCR) on private setups.
-*   **Agent Harness & Tooling Evaluation:** Unifying local execution environments for diverse agent runtimes and evaluating developer tool capabilities through automated codebase-analysis pipelines.
+*   **Local Inference Pipelines:** Deploying and benchmarking embedding/reranking APIs (like Qwen) and local OCR systems (PaddleOCR) on local setups.
+*   **Agent Harness & Tooling Evaluation:** Unifying local execution environments for diverse agent runtimes and evaluating agent tooling through automated codebase-analysis pipelines & testing.
 *   **Data Ingestion & Sinks:** Streaming agent telemetry using ClickHouse and Redpanda.
 
 ---
 
 ### Tech Stack & Tools
+*   **Agent Tooling:** Local embeddings, Tantivy, Qwen LLMs, Rebrowser, MemPalace, CASS
+*   **Agent Harnesses:** Claude Code, Codex, OpenCode, Hermes, OpenClaw, ZCode
 *   **Languages:** Rust, TypeScript, Python, Bash, Go
 *   **Databases & Ingestion:** SQLite, ClickHouse, Qdrant, Redpanda/Kafka
-*   **AI Infrastructure:** Local embeddings, Tantivy, Qwen LLMs, Rebrowser, Playwright
-*   **DevOps:** Docker, systemd, WireGuard, VLAN bridging
+*   **DevOps:** Docker, systemd, WireGuard, Prometheus/Grafana
 
 ---
 
-**Get in Touch:** [Pierre.Martinow@gmail.com](mailto:Pierre.Martinow@gmail.com)
+**Get in Touch:** [Pierre.Martinow@gmail.com](mailto:Pierre.Martinow@gmail.com) OR [x.com/pierrermartinow](https://x.com/pierrermartinow)
