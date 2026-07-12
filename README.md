@@ -6,7 +6,7 @@
 ### What I'm Building
 I focus on context engineering, agent memory, repository intelligence, and browser automation to make coding agents faster, smarter, and fully local.
 
-*   **[repo-analysis-workbench](https://github.com/prmartinow/repo-analysis-workbench)**: A standalone workbench for evaluating agent workflows and indexing codebases using local semantic embeddings and reranking.
+*   **[repo-analysis-workbench](https://github.com/prmartinow/repo-analysis-workbench)**: A standalone workbench for evaluating and indexing codebases using local semantic embeddings and reranking.
 *   **[web-osint-platform](https://github.com/prmartinow/web-osint-platform)**: Visible Chromium/Rebrowser automation architecture backed by VNC/noVNC display observability.
 *   **[wispr](https://github.com/prmartinow/wispr)**: Local voice-to-text pipeline and paste gateway designed for hands-free coding agent dictation.
 *   **[CASS (Coding Agent Session Search)](https://github.com/prmartinow/coding_agent_session_search)**: A unified indexing and lexical search engine running on Tantivy and SQLite for local agent transcripts.
