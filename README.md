@@ -1,4 +1,3 @@
-# Hi there, I'm Pierre Martinow
 *Building local-first, privacy-respecting AI tooling for coding agents.*
 
 ---
