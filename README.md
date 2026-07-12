@@ -5,7 +5,7 @@
 ### What I'm Building
 I focus on context engineering, agent memory, repository intelligence, and browser automation to make coding agents cheaper and more efficient.
 
-*   **[repo-analysis-workbench](https://github.com/prmartinow/repo-analysis-workbench)**: helping your agent to understand code repos faster.
+*   **[repo-analysis-workbench](https://github.com/prmartinow/repo-analysis-workbench)**: Helping your agent understand code repos faster.
 *   **[web-osint-platform](https://github.com/prmartinow/web-osint-platform)**: A platform to collect, index, label and analyze data captured around the internet. Precursour to a WIKI or Deep Research platform.
 *   **[wispr](https://github.com/prmartinow/wispr)**: OS replacement for super whisper or wispr flow.
 
