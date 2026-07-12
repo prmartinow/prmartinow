@@ -20,7 +20,7 @@ I contribute to open-source developer tools and agent runtimes:
 
 ---
 
-### Key Learnings & Focus Areas
+### Focus Areas
 Over the last couple of months developing AI agent systems, I've spent my time on:
 *   **Context Engineering:** Pruning code trees, mapping repository structures, and optimizing input tokens for local models.
 *   **Local Inference Pipelines:** Deploying and benchmarking embedding/reranking APIs (like Qwen) and local OCR systems (PaddleOCR) on private setups.
