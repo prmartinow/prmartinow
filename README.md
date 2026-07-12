@@ -24,7 +24,7 @@ I contribute to open-source developer tools and agent runtimes:
 Over the last couple of months developing AI agent systems, I've spent my time on:
 *   **Context Engineering:** Pruning code trees, mapping repository structures, and optimizing input tokens for local models.
 *   **Local Inference Pipelines:** Deploying and benchmarking embedding/reranking APIs (like Qwen) and local OCR systems (PaddleOCR) on private setups.
-*   **Agent TTY and Session Tracing:** Building asciicast rendering tools to record and check semantic traces of agent terminal actions.
+*   **Agent Harness & Tooling Evaluation:** Unifying local execution environments for diverse agent runtimes and evaluating developer tool capabilities through automated codebase-analysis pipelines.
 *   **Data Ingestion & Sinks:** Streaming agent telemetry using ClickHouse and Redpanda.
 
 ---
