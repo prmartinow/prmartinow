@@ -18,7 +18,7 @@ Over the last couple of months developing AI agent systems, I've spent my time o
 *   **Context Engineering:** Pruning code trees, mapping repository structures, and optimizing input tokens for local models.
 *   **Local Inference Pipelines:** Deploying and benchmarking embedding/reranking APIs (like Qwen) and local OCR systems (PaddleOCR) on private setups.
 *   **Agent TTY and Session Tracing:** Building asciicast rendering tools to record and check semantic traces of agent terminal actions.
-*   **Data Ingestion & Sinks:** Streaming agent telemetry using ClickHouse, Redpanda, and custom decoder layers.
+*   **Data Ingestion & Sinks:** Streaming agent telemetry using ClickHouse and Redpanda.
 
 ---
 
