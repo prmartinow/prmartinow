@@ -39,4 +39,6 @@ Over the last couple of months developing agent tooling, I've spent my time on:
 
 ---
 
-**Get in Touch:** [Pierre.Martinow@gmail.com](mailto:Pierre.Martinow@gmail.com) OR [x.com/pierrermartinow](https://x.com/pierrermartinow)
+**Get in Touch:** 
+- [Pierre.Martinow@gmail.com](mailto:Pierre.Martinow@gmail.com)
+- [x.com/pierrermartinow](https://x.com/pierrermartinow)
