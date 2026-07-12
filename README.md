@@ -29,7 +29,7 @@ Over the last couple of months developing agent tooling, I've spent my time on:
 ---
 
 ### Tech Stack & Tools
-*   **Agent Tooling:** Local embeddings, Tantivy, Qwen LLMs, Rebrowser, MemPalace, CASS
+*   **Agent Tooling:** Tantivy, Rebrowser, MemPalace, CASS
 *   **Agent Harnesses:** Claude Code, Codex, OpenCode, Hermes, OpenClaw, ZCode
 *   **Languages:** Rust, TypeScript, Python, Bash, Go
 *   **Databases & Ingestion:** SQLite, ClickHouse, Qdrant, Redpanda/Kafka
