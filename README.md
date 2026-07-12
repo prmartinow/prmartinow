@@ -13,17 +13,10 @@ I focus on context engineering, agent memory, repository intelligence, and brows
 ---
 
 ### Contributions
-I contribute to open-source developer tools and agent frameworks, resolving edge-case crashes, memory leaks, and performance bottlenecks:
+I contribute to open-source developer tools and agent runtimes:
 
-*   **[anomalyco/opencode](https://github.com/anomalyco/opencode)**:
-    *   Resolved CORS and host validation blocks for remote LAN client access (PR #35930).
-    *   Prevented TUI MaxListenersExceededWarning by configuring explicit event listener limits and cleaning up HMR leaks (PR #35931).
-    *   Fixed frontend crashes on direct session routing by resolving lazy-loaded context provider dependencies (PR #35936).
-    *   Stabilized CLI help output formatting and resolved slow agent test races in the test suite (PR #35932).
-*   **[Dicklesworthstone/coding_agent_session_search (CASS)](https://github.com/prmartinow/coding_agent_session_search)**:
-    *   Fixed SQLite Write-Ahead Log (WAL) checkpoint stalls on error-abort paths and during post-publish finalize cycles (PR #319, PR #321).
-    *   Retired native ONNX runtime dependencies and the semantic Cargo feature flag to streamline the tool as a lexical search engine (PR #308).
-    *   Hardened the indexer against daemon-level OOM crashes by deferring overlong conversation processing and scoping embedding cancellation (PR #298).
+*   **[anomalyco/opencode](https://github.com/anomalyco/opencode)**: Resolved LAN CORS restrictions, fixed frontend session route hydration crashes, corrected TUI event listener leaks, and stabilized test suite execution.
+*   **[coder/agent-tty](https://github.com/coder/agent-tty)**: Propagated active session state and environment flags (`sessionId` and `AGENT_TTY_ACTIVE`) to spawned processes.
 
 ---
 
