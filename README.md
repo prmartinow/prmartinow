@@ -11,9 +11,8 @@
 
 ### Tech Stack & Tools
 
-*   **Agent Tooling:** Tantivy, Rebrowser, MemPalace, CASS
-*   **Agent Harnesses:** Claude Code, Codex, OpenCode, Hermes, OpenClaw, ZCode
-*   **Local Inference:** PyTorch, HuggingFace Transformers, SentenceTransformer, CrossEncoder, FastAPI
-*   **Languages:** Rust, TypeScript, Python, Bash, Go
-*   **Databases & Ingestion:** ClickHouse, Qdrant, Redpanda/Kafka, SQLite
+*   **Agent Tooling:** Tantivy, Rebrowser, MemPalace, CASS, Omnigent
+*   **Agent Harnesses:** OpenCode, Hermes, OpenClaw, ZCode, Claude Code, Codex
+*   **Local Inference:** PyTorch, HuggingFace Transformers, ONNX, FastAPI
+*   **Databases & Ingestion:** ClickHouse, Qdrant, Redpanda/Kafka, Graphitti
 *   **DevOps:** Docker, systemd, WireGuard, Prometheus/Grafana
